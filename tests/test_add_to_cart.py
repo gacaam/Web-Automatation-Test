@@ -26,7 +26,8 @@ class TestAddToCart(unittest.TestCase):
 
         cart_page = CartPage(self.driver)
         cart_page.open_cart()
-        
+
+        # assert true if item is in cart
         self.assertTrue(cart_page.is_item_in_cart("Samsung galaxy s6"), "Item not found in cart.")
 
     def tearDown(self):

@@ -1,4 +1,4 @@
-# Automatation Script Project
+# Test Automation Project
 This is an automated script to test features of this demo [website](https://www.demoblaze.com/index.html). The script are built in Python using the Selenium WebDriver framework.
 
 ## System Set Up

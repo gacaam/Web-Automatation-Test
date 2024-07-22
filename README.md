@@ -12,8 +12,8 @@ Execute these commands in the terminal.
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/gacaam/
-    cd Automation-Script
+    git clone https://github.com/gacaam/Web-Automatation-Test.git
+    cd Web-Automatation-Test
     ```
 
 2. **Create and activate virtual environment**:
